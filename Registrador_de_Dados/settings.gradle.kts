@@ -1,0 +1,1 @@
+rootProject.name = "Registrador_de_Dados"
