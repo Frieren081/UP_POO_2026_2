@@ -8,6 +8,7 @@ public class Main{
         Integer age = 10;
         Float littleNumber = 10.0f;
         Double bigNumber = 10.0d;
+
 System.out.println("Digite uma mensagem");
 message = input.next
 
